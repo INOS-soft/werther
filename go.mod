@@ -10,7 +10,7 @@ require (
 	github.com/go-ldap/ldap/v3 v3.2.3
 	github.com/i-core/rlog v1.0.0
 	github.com/i-core/routegroup v1.0.0
-	github.com/justinas/nosurf v0.0.0-20171023064657-7182011986c4
+	github.com/justinas/nosurf v1.1.1
 	github.com/kelseyhightower/envconfig v1.3.0
 	github.com/kevinburke/go-bindata v3.13.0+incompatible
 	github.com/pkg/errors v0.8.1
